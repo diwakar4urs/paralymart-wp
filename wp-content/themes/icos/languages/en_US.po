@@ -1,0 +1,1909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ICOs v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-05-25 03:42:34+0000\n"
+"Last-Translator: admin <learn@oceanthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ icos
+msgid "404"
+msgstr ""
+
+#: comments.php:36
+#@ icos
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+#@ icos
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:43
+#@ icos
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:58
+#@ icos
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:59
+#@ icos
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:61
+#@ icos
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:62
+#@ icos
+msgid "Post Comment"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+#@ icos
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+#@ icos
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+#@ icos
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+#@ icos
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+#@ icos
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:343
+#, php-format
+#@ icos
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:349
+#, php-format
+#@ icos
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:355
+#, php-format
+#@ icos
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:361
+#, php-format
+#@ icos
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:367
+#, php-format
+#@ icos
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:373
+#, php-format
+#@ icos
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:378
+#@ icos
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:383
+#@ icos
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:388
+#@ icos
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:392
+#@ icos
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:912
+#: framework/class-tgm-plugin-activation.php:2618
+#: framework/class-tgm-plugin-activation.php:3665
+#@ icos
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3244
+#@ icos
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+#@ icos
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+#@ icos
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+#@ icos
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+#@ icos
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+#@ icos
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+#@ icos
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+#@ icos
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+#@ icos
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#@ icos
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#: framework/class-tgm-plugin-activation.php:1022
+#@ icos
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+#@ icos
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1206
+#: framework/class-tgm-plugin-activation.php:3033
+#@ icos
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ icos
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+#@ icos
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+#@ icos
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2377
+#@ icos
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+#@ icos
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+#@ icos
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2400
+#@ icos
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2404
+#@ icos
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2406
+#@ icos
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2412
+#@ icos
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+#@ icos
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+#@ icos
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ icos
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2473
+#, php-format
+#@ icos
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2477
+#, php-format
+#@ icos
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2481
+#, php-format
+#@ icos
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2485
+#, php-format
+#@ icos
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2567
+#@ icos
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2575
+#@ icos
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2583
+#@ icos
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2595
+#@ icos
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2618
+#@ icos
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2632
+#@ icos
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2633
+#@ icos
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2634
+#@ icos
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2638
+#@ icos
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2639
+#@ icos
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2688
+#, php-format
+#@ icos
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2693
+#, php-format
+#@ icos
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2699
+#, php-format
+#@ icos
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2769
+#@ icos
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+#@ icos
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+#@ icos
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+#@ icos
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2842
+#@ icos
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2844
+#@ icos
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2885
+#@ icos
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2887
+#@ icos
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2993
+#@ icos
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3019
+#@ icos
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/class-tgm-plugin-activation.php:3037
+#: framework/class-tgm-plugin-activation.php:395
+#@ icos
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:3243
+#@ icos
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3583
+#, php-format
+#@ icos
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+#@ icos
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3588
+#, php-format
+#@ icos
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+#@ icos
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+#@ icos
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+#@ icos
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+#@ icos
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+#@ icos
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+#@ icos
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+#@ icos
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+#@ icos
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/customizer.php:180
+#@ icos
+msgid "General"
+msgstr ""
+
+#: framework/customizer.php:184
+#@ icos
+msgid "Header"
+msgstr ""
+
+#: framework/customizer.php:255
+#: framework/customizer.php:956
+#: vc_shortcode.php:167
+#: vc_shortcode.php:780
+#: vc_shortcode.php:900
+#@ icos
+msgid "Socials"
+msgstr ""
+
+#: vc_shortcode.php:727
+#@ icos
+msgid "Navigation"
+msgstr ""
+
+#: framework/customizer.php:196
+#@ icos
+msgid "Site Logo"
+msgstr ""
+
+#: framework/customizer.php:224
+#: framework/customizer.php:630
+#@ icos
+msgid "Page Header"
+msgstr ""
+
+#: framework/customizer.php:233
+#@ icos
+msgid "Blog"
+msgstr ""
+
+#: framework/customizer.php:188
+#@ icos
+msgid "Footer"
+msgstr ""
+
+#: framework/customizer.php:271
+#@ icos
+msgid "Miscellaneous"
+msgstr ""
+
+#: framework/customizer.php:284
+#@ icos
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/customizer.php:311
+#@ icos
+msgid "Color Text Menu"
+msgstr ""
+
+#: framework/customizer.php:464
+#: framework/customizer.php:515
+#@ icos
+msgid "Logo Width"
+msgstr ""
+
+#: framework/customizer.php:477
+#: framework/customizer.php:528
+#@ icos
+msgid "Logo Height"
+msgstr ""
+
+#: framework/customizer.php:490
+#: framework/customizer.php:541
+#@ icos
+msgid "Logo Margin"
+msgstr ""
+
+#: framework/customizer.php:631
+#@ icos
+msgid "Enable to show page header on whole site"
+msgstr ""
+
+#: framework/customizer.php:659
+#@ icos
+msgid "Background Image"
+msgstr ""
+
+#: framework/customizer.php:660
+#@ icos
+msgid "Upload a page header background image"
+msgstr ""
+
+#: framework/customizer.php:752
+#@ icos
+msgid "Blog List Layout"
+msgstr ""
+
+#: framework/customizer.php:764
+#@ icos
+msgid "Single Blog Layout"
+msgstr ""
+
+#: framework/customizer.php:776
+#@ icos
+msgid "Title Header Single"
+msgstr ""
+
+#: framework/customizer.php:783
+#@ icos
+msgid "Excerpt Length"
+msgstr ""
+
+#: framework/customizer.php:1060
+#@ icos
+msgid "Color Text Footer"
+msgstr ""
+
+#: framework/customizer.php:689
+#@ icos
+msgid "Background Color"
+msgstr ""
+
+#: framework/customizer.php:1075
+#@ icos
+msgid "Preloader"
+msgstr ""
+
+#: framework/customizer.php:1116
+#@ icos
+msgid "Primary Color"
+msgstr ""
+
+#: framework/meta-boxes.php:20
+#@ icos
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:34
+#: vc_shortcode.php:251
+#@ icos
+msgid "Image"
+msgstr ""
+
+#: framework/meta-boxes.php:48
+#@ icos
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:60
+#@ icos
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:78
+#: vc_shortcode.php:621
+#@ icos
+msgid "Video"
+msgstr ""
+
+#: framework/plugin-requires.php:9
+#@ icos
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugin-requires.php:16
+#@ icos
+msgid "Kirki Customizer"
+msgstr ""
+
+#: framework/plugin-requires.php:31
+#@ icos
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:26
+#@ icos
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/template-tags.php:147
+#, php-format
+#@ icos
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:155
+#@ icos
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:96
+#@ icos
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:98
+#@ icos
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:234
+#: functions.php:245
+#@ icos
+msgid "Setup Full Width"
+msgstr ""
+
+#: functions.php:237
+#: functions.php:249
+#@ icos
+msgid "No"
+msgstr ""
+
+#: functions.php:238
+#: functions.php:248
+#@ icos
+msgid "Yes"
+msgstr ""
+
+#: functions.php:240
+#: functions.php:251
+#@ icos
+msgid "Select Full width for row : yes or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:290
+#@ icos
+msgid "Background Parallax"
+msgstr ""
+
+#: page-templates/template-leftsidebar.php:81
+#: page.php:86
+#: single.php:145
+#@ icos
+msgid "Pages:"
+msgstr ""
+
+#: page-templates/template-leftsidebar.php:85
+#: page.php:90
+#: single.php:149
+#@ icos
+msgid "Page"
+msgstr ""
+
+#: 404.php:17
+#@ icos
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:18
+#@ icos
+msgid "The page you have requested cannot be found."
+msgstr ""
+
+#: 404.php:19
+#@ icos
+msgid "Maybe the page was moved or deleted, or perhaps you just mistyped the address.<br> Why not to try and find your way using the navigation bar above or click on the logo to return to our  home page."
+msgstr ""
+
+#: comments.php:28
+#@ icos
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:28
+#@ icos
+msgid "% Comments"
+msgstr ""
+
+#: vc_shortcode.php:366
+#: vc_shortcode.php:415
+#: vc_shortcode.php:566
+#: vc_shortcode.php:682
+#@ icos
+msgid "Details"
+msgstr ""
+
+#: framework/customizer.php:350
+#@ icos
+msgid "Background Dropdown Menu"
+msgstr ""
+
+#: page-templates/template-onepage.php:15
+#@ icos
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: vc_shortcode.php:498
+#: vc_shortcode.php:614
+#@ icos
+msgid "Button"
+msgstr ""
+
+#: vc_shortcode.php:307
+#@ icos
+msgid "Icon"
+msgstr ""
+
+#: vc_shortcode.php:120
+#: vc_shortcode.php:259
+#: vc_shortcode.php:316
+#: vc_shortcode.php:360
+#: vc_shortcode.php:409
+#: vc_shortcode.php:439
+#: vc_shortcode.php:549
+#: vc_shortcode.php:937
+#@ icos
+msgid "Title"
+msgstr ""
+
+#: vc_shortcode.php:267
+#: vc_shortcode.php:324
+#@ icos
+msgid "Description"
+msgstr ""
+
+#: vc_shortcode.php:739
+#@ icos
+msgid "OT Member Team"
+msgstr ""
+
+#: vc_shortcode.php:749
+#: vc_shortcode.php:870
+#: vc_shortcode.php:972
+#@ icos
+msgid "Photo"
+msgstr ""
+
+#: vc_shortcode.php:757
+#: vc_shortcode.php:878
+#@ icos
+msgid "Member Name"
+msgstr ""
+
+#: vc_shortcode.php:765
+#: vc_shortcode.php:886
+#@ icos
+msgid "Member Job"
+msgstr ""
+
+#: vc_shortcode.php:44
+#: vc_shortcode.php:143
+#: vc_shortcode.php:202
+#: vc_shortcode.php:282
+#: vc_shortcode.php:331
+#: vc_shortcode.php:715
+#: vc_shortcode.php:1035
+#@ icos
+msgid "Style"
+msgstr ""
+
+#: framework/customizer.php:936
+#: vc_shortcode.php:205
+#: vc_shortcode.php:285
+#: vc_shortcode.php:718
+#@ icos
+msgid "Style 1"
+msgstr ""
+
+#: framework/customizer.php:937
+#: vc_shortcode.php:206
+#: vc_shortcode.php:286
+#: vc_shortcode.php:719
+#@ icos
+msgid "Style 2"
+msgstr ""
+
+#: vc_shortcode.php:1060
+#@ icos
+msgid "3 Columns"
+msgstr ""
+
+#: vc_shortcode.php:1061
+#@ icos
+msgid "4 Columns"
+msgstr ""
+
+#: vc_shortcode.php:376
+#: vc_shortcode.php:1062
+#@ icos
+msgid "2 Columns"
+msgstr ""
+
+#: framework/plugin-requires.php:43
+#@ icos
+msgid "OT One Click Demo Content"
+msgstr ""
+
+#: comments.php:28
+#@ icos
+msgid "0 Comments"
+msgstr ""
+
+#: framework/customizer.php:324
+#@ icos
+msgid "Background Scroll Menu"
+msgstr ""
+
+#: framework/customizer.php:337
+#@ icos
+msgid "Color Text Scroll Menu"
+msgstr ""
+
+#: framework/customizer.php:457
+#@ icos
+msgid "Logo Image"
+msgstr ""
+
+#: framework/customizer.php:508
+#@ icos
+msgid "Scroll Logo Image"
+msgstr ""
+
+#: framework/customizer.php:986
+#@ icos
+msgid "Copy Right Text"
+msgstr ""
+
+#: framework/customizer.php:993
+#@ icos
+msgid "Align Left"
+msgstr ""
+
+#: vc_shortcode.php:159
+#@ icos
+msgid "OT Socials"
+msgstr ""
+
+#: 404.php:20
+#@ icos
+msgid "Back To Home"
+msgstr ""
+
+#: comments.php:56
+#@ icos
+msgid "Leave A Comment"
+msgstr ""
+
+#: framework/customizer.php:241
+#@ icos
+msgid "Subscribe"
+msgstr ""
+
+#: framework/customizer.php:265
+#@ icos
+msgid "Typography"
+msgstr ""
+
+#: framework/customizer.php:291
+#@ icos
+msgid "Sticky On Mobile"
+msgstr ""
+
+#: framework/customizer.php:298
+#@ icos
+msgid "Background Navigation"
+msgstr ""
+
+#: framework/customizer.php:363
+#@ icos
+msgid "Color Text Dropdown Menu"
+msgstr ""
+
+#: framework/customizer.php:378
+#@ icos
+msgid "Navigation Buttons"
+msgstr ""
+
+#: framework/customizer.php:385
+#@ icos
+msgid "Label Button"
+msgstr ""
+
+#: framework/customizer.php:389
+#@ icos
+msgid "Link Button"
+msgstr ""
+
+#: framework/customizer.php:395
+#@ icos
+msgid "Background Button"
+msgstr ""
+
+#: framework/customizer.php:412
+#: vc_shortcode.php:55
+#@ icos
+msgid "Color Button"
+msgstr ""
+
+#: framework/customizer.php:425
+#@ icos
+msgid "Hover Background Button"
+msgstr ""
+
+#: framework/customizer.php:442
+#: vc_shortcode.php:63
+#@ icos
+msgid "Hover Color Button"
+msgstr ""
+
+#: framework/customizer.php:638
+#@ icos
+msgid "Page Heading Height"
+msgstr ""
+
+#: framework/customizer.php:674
+#@ icos
+msgid "Top Image"
+msgstr ""
+
+#: framework/customizer.php:675
+#@ icos
+msgid "Upload a page header top image"
+msgstr ""
+
+#: framework/customizer.php:709
+#@ icos
+msgid "Color Heading"
+msgstr ""
+
+#: framework/customizer.php:729
+#@ icos
+msgid "Heading Font Size"
+msgstr ""
+
+#: framework/customizer.php:796
+#@ icos
+msgid "Subscribe Footer"
+msgstr ""
+
+#: framework/customizer.php:803
+#@ icos
+msgid "Subscribe Title"
+msgstr ""
+
+#: framework/customizer.php:817
+#@ icos
+msgid "Subscribe Form Shortcode"
+msgstr ""
+
+#: framework/customizer.php:831
+#: framework/customizer.php:1007
+#@ icos
+msgid "Padding Top"
+msgstr ""
+
+#: framework/customizer.php:852
+#: framework/customizer.php:1028
+#@ icos
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework/customizer.php:872
+#@ icos
+msgid "Background Image Subscribe"
+msgstr ""
+
+#: framework/customizer.php:891
+#@ icos
+msgid "Background Color Subscribe"
+msgstr ""
+
+#: framework/customizer.php:910
+#@ icos
+msgid "Color Text Subscribe"
+msgstr ""
+
+#: framework/customizer.php:963
+#@ icos
+msgid "Icon Class"
+msgstr ""
+
+#: framework/customizer.php:964
+#@ icos
+msgid "This will be the social icon: http://fontawesome.io/icons/"
+msgstr ""
+
+#: framework/customizer.php:969
+#@ icos
+msgid "Link URL"
+msgstr ""
+
+#: framework/customizer.php:970
+#@ icos
+msgid "This will be the social link"
+msgstr ""
+
+#: framework/customizer.php:1048
+#@ icos
+msgid "Background Footer"
+msgstr ""
+
+#: framework/customizer.php:1082
+#: functions.php:324
+#: functions.php:347
+#@ icos
+msgid "Animation"
+msgstr ""
+
+#: framework/customizer.php:1089
+#@ icos
+msgid "Theme Style"
+msgstr ""
+
+#: framework/customizer.php:1094
+#@ icos
+msgid "Dark Style"
+msgstr ""
+
+#: framework/customizer.php:1095
+#@ icos
+msgid "Light Style"
+msgstr ""
+
+#: framework/customizer.php:1096
+#@ icos
+msgid "Azure Style"
+msgstr ""
+
+#: framework/customizer.php:1103
+#@ icos
+msgid "Background Body"
+msgstr ""
+
+#: framework/customizer.php:1123
+#@ icos
+msgid "Second Color"
+msgstr ""
+
+#: framework/customizer.php:1130
+#@ icos
+msgid "Third Color"
+msgstr ""
+
+#: framework/customizer.php:1139
+#@ icos
+msgid "Body"
+msgstr ""
+
+#: framework/customizer.php:1155
+#@ icos
+msgid "Heading 1"
+msgstr ""
+
+#: framework/customizer.php:1171
+#@ icos
+msgid "Heading 2"
+msgstr ""
+
+#: framework/customizer.php:1187
+#@ icos
+msgid "Heading 3"
+msgstr ""
+
+#: framework/customizer.php:1203
+#@ icos
+msgid "Heading 4"
+msgstr ""
+
+#: framework/customizer.php:1219
+#@ icos
+msgid "Heading 5"
+msgstr ""
+
+#: framework/customizer.php:1235
+#@ icos
+msgid "Heading 6"
+msgstr ""
+
+#: framework/customizer.php:203
+#: framework/customizer.php:1251
+#@ icos
+msgid "Menu"
+msgstr ""
+
+#: framework/plugin-requires.php:21
+#@ icos
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: framework/plugin-requires.php:37
+#@ icos
+msgid "OT Team"
+msgstr ""
+
+#: framework/template-tags.php:124
+#@ icos
+msgid "Search Keyword"
+msgstr ""
+
+#: functions.php:43
+#@ icos
+msgid "Multipage Menu"
+msgstr ""
+
+#: functions.php:44
+#@ icos
+msgid "Onepage Menu"
+msgstr ""
+
+#: functions.php:45
+#@ icos
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:105
+#@ icos
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:107
+#: functions.php:117
+#: functions.php:127
+#: functions.php:137
+#@ icos
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:115
+#@ icos
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:125
+#@ icos
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:135
+#@ icos
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:157
+#@ icos
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:158
+#@ icos
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:258
+#@ icos
+msgid "Banner Section"
+msgstr ""
+
+#: functions.php:274
+#@ icos
+msgid "Particles"
+msgstr ""
+
+#: functions.php:292
+#@ icos
+msgid " "
+msgstr ""
+
+#: functions.php:316
+#@ icos
+msgid "Section Connect"
+msgstr ""
+
+#: functions.php:327
+#: functions.php:350
+#@ icos
+msgid "None"
+msgstr ""
+
+#: functions.php:328
+#: functions.php:351
+#@ icos
+msgid "FadeIn"
+msgstr ""
+
+#: functions.php:329
+#: functions.php:352
+#@ icos
+msgid "FadeinUp"
+msgstr ""
+
+#: functions.php:330
+#: functions.php:353
+#@ icos
+msgid "FadeinDown"
+msgstr ""
+
+#: functions.php:331
+#: functions.php:354
+#@ icos
+msgid "FadeinLeft"
+msgstr ""
+
+#: functions.php:332
+#: functions.php:355
+#@ icos
+msgid "FadeinRight"
+msgstr ""
+
+#: functions.php:338
+#: functions.php:361
+#@ icos
+msgid "Time Delay"
+msgstr ""
+
+#: functions.php:340
+#: functions.php:363
+#@ icos
+msgid "Example: 0.5, 1, 1.5, 2,..."
+msgstr ""
+
+#: index.php:60
+#: single.php:56
+#@ icos
+msgid "ICO CRYPTO NEWS"
+msgstr ""
+
+#: search.php:23
+#, php-format
+#@ icos
+msgid "Search results for: %s"
+msgstr ""
+
+#: search.php:52
+#@ icos
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:55
+#@ icos
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: vc_shortcode.php:6
+#@ icos
+msgid "OT Button"
+msgstr ""
+
+#: vc_shortcode.php:16
+#@ icos
+msgid "Button Label"
+msgstr ""
+
+#: vc_shortcode.php:24
+#@ icos
+msgid "Button Link"
+msgstr ""
+
+#: vc_shortcode.php:32
+#@ icos
+msgid "Size"
+msgstr ""
+
+#: vc_shortcode.php:35
+#@ icos
+msgid "Normal"
+msgstr ""
+
+#: vc_shortcode.php:36
+#@ icos
+msgid "Big"
+msgstr ""
+
+#: vc_shortcode.php:37
+#@ icos
+msgid "Small"
+msgstr ""
+
+#: vc_shortcode.php:47
+#@ icos
+msgid "Rounded"
+msgstr ""
+
+#: vc_shortcode.php:48
+#@ icos
+msgid "Squared"
+msgstr ""
+
+#: vc_shortcode.php:71
+#@ icos
+msgid "Backgound Color"
+msgstr ""
+
+#: vc_shortcode.php:79
+#@ icos
+msgid "Hover Backgound Color"
+msgstr ""
+
+#: vc_shortcode.php:86
+#@ icos
+msgid "Alignment"
+msgstr ""
+
+#: vc_shortcode.php:89
+#@ icos
+msgid "Inline"
+msgstr ""
+
+#: vc_shortcode.php:90
+#@ icos
+msgid "Left"
+msgstr ""
+
+#: vc_shortcode.php:91
+#@ icos
+msgid "Center"
+msgstr ""
+
+#: vc_shortcode.php:92
+#@ icos
+msgid "Right"
+msgstr ""
+
+#: vc_shortcode.php:99
+#@ icos
+msgid "Extra Class"
+msgstr ""
+
+#: vc_shortcode.php:102
+#@ icos
+msgid "Add class to custom css."
+msgstr ""
+
+#: vc_shortcode.php:110
+#@ icos
+msgid "OT Section Heading"
+msgstr ""
+
+#: vc_shortcode.php:128
+#@ icos
+msgid "Subtitle"
+msgstr ""
+
+#: vc_shortcode.php:136
+#@ icos
+msgid "Circle Lines"
+msgstr ""
+
+#: vc_shortcode.php:193
+#@ icos
+msgid "OT Video Popup"
+msgstr ""
+
+#: vc_shortcode.php:213
+#@ icos
+msgid "Link Video"
+msgstr ""
+
+#: vc_shortcode.php:221
+#@ icos
+msgid "Text 1"
+msgstr ""
+
+#: vc_shortcode.php:229
+#@ icos
+msgid "Text 2"
+msgstr ""
+
+#: vc_shortcode.php:241
+#@ icos
+msgid "OT Features Box"
+msgstr ""
+
+#: vc_shortcode.php:275
+#@ icos
+msgid "Link"
+msgstr ""
+
+#: vc_shortcode.php:345
+#@ icos
+msgid "OT Sale Info"
+msgstr ""
+
+#: vc_shortcode.php:353
+#@ icos
+msgid "Sale Token Info"
+msgstr ""
+
+#: vc_shortcode.php:429
+#@ icos
+msgid "OT CountDown"
+msgstr ""
+
+#: vc_shortcode.php:447
+#: vc_shortcode.php:557
+#@ icos
+msgid "Date Time"
+msgstr ""
+
+#: vc_shortcode.php:456
+#@ icos
+msgid "Token Sale Status?"
+msgstr ""
+
+#: vc_shortcode.php:464
+#: vc_shortcode.php:574
+#@ icos
+msgid "Current Percent"
+msgstr ""
+
+#: vc_shortcode.php:474
+#: vc_shortcode.php:591
+#@ icos
+msgid "Rounds/Steps"
+msgstr ""
+
+#: vc_shortcode.php:481
+#: vc_shortcode.php:597
+#@ icos
+msgid "Round Name"
+msgstr ""
+
+#: vc_shortcode.php:487
+#: vc_shortcode.php:603
+#@ icos
+msgid "Round Percent"
+msgstr ""
+
+#: vc_shortcode.php:503
+#: vc_shortcode.php:633
+#@ icos
+msgid "Payment Icon"
+msgstr ""
+
+#: vc_shortcode.php:528
+#@ icos
+msgid "Extra Line"
+msgstr ""
+
+#: vc_shortcode.php:661
+#@ icos
+msgid "OT RoadMap"
+msgstr ""
+
+#: vc_shortcode.php:669
+#@ icos
+msgid "RoadMap"
+msgstr ""
+
+#: vc_shortcode.php:676
+#@ icos
+msgid "Time"
+msgstr ""
+
+#: vc_shortcode.php:690
+#@ icos
+msgid "Step Done"
+msgstr ""
+
+#: vc_shortcode.php:698
+#@ icos
+msgid "Step Down"
+msgstr ""
+
+#: vc_shortcode.php:706
+#@ icos
+msgid "Step Higher"
+msgstr ""
+
+#: vc_shortcode.php:773
+#@ icos
+msgid "Popup Details Member"
+msgstr ""
+
+#: vc_shortcode.php:776
+#@ icos
+msgid "Select member team."
+msgstr ""
+
+#: vc_shortcode.php:803
+#@ icos
+msgid "Square Style"
+msgstr ""
+
+#: vc_shortcode.php:927
+#@ icos
+msgid "OT Skill"
+msgstr ""
+
+#: vc_shortcode.php:945
+#@ icos
+msgid "Percent"
+msgstr ""
+
+#: vc_shortcode.php:998
+#@ icos
+msgid "OT FAQs"
+msgstr ""
+
+#: vc_shortcode.php:1006
+#@ icos
+msgid "FAQs"
+msgstr ""
+
+#: vc_shortcode.php:1013
+#@ icos
+msgid "Question"
+msgstr ""
+
+#: vc_shortcode.php:1019
+#@ icos
+msgid "Answer"
+msgstr ""
+
+#: vc_shortcode.php:1026
+#@ icos
+msgid "Open"
+msgstr ""
+
+#: vc_shortcode.php:1038
+#@ icos
+msgid "Style 1: Accordion"
+msgstr ""
+
+#: vc_shortcode.php:1039
+#@ icos
+msgid "Style 2: 2 Columns"
+msgstr ""
+
+#: vc_shortcode.php:1049
+#@ icos
+msgid "OT Latest Blog"
+msgstr ""
+
+#: vc_shortcode.php:1057
+#@ icos
+msgid "Number Columns"
+msgstr ""
+
+#: vc_shortcode.php:1067
+#@ icos
+msgid "Bottom Link"
+msgstr ""
+
+#: framework/customizer.php:210
+#@ icos
+msgid "Buttons"
+msgstr ""
+
+#: framework/customizer.php:217
+#@ icos
+msgid "Language Switcher"
+msgstr ""
+
+#: framework/customizer.php:248
+#@ icos
+msgid "Copyright"
+msgstr ""
+
+#: framework/customizer.php:561
+#@ icos
+msgid "Position Switcher"
+msgstr ""
+
+#: framework/customizer.php:566
+#@ icos
+msgid "After Logo"
+msgstr ""
+
+#: framework/customizer.php:567
+#@ icos
+msgid "Atter Menu"
+msgstr ""
+
+#: framework/customizer.php:572
+#@ icos
+msgid "Color Language"
+msgstr ""
+
+#: framework/customizer.php:585
+#@ icos
+msgid "Color Scroll Language"
+msgstr ""
+
+#: framework/customizer.php:602
+#@ icos
+msgid "Background Dropdown"
+msgstr ""
+
+#: framework/customizer.php:615
+#@ icos
+msgid "Color Dropdown"
+msgstr ""
+
+#: framework/customizer.php:931
+#@ icos
+msgid "Socials Style"
+msgstr ""
+
+#: framework/customizer.php:942
+#@ icos
+msgid "Title Left"
+msgstr ""
+
+#: framework/customizer.php:977
+#@ icos
+msgid "Open In New Tab"
+msgstr ""
+
+#: framework/customizer.php:1000
+#@ icos
+msgid "Top Line"
+msgstr ""
+
+#: framework/customizer.php:1097
+#@ icos
+msgid "Lavender Style"
+msgstr ""
+
+#: framework/customizer.php:1098
+#@ icos
+msgid "Muscari Style"
+msgstr ""
+
+#: functions.php:266
+#@ icos
+msgid "Banner Shade"
+msgstr ""
+
+#: functions.php:282
+#@ icos
+msgid "Section Pro/Section Light"
+msgstr ""
+
+#: functions.php:299
+#@ icos
+msgid "Section Angle"
+msgstr ""
+
+#: functions.php:307
+#@ icos
+msgid "Bubble"
+msgstr ""
+
+#: vc_shortcode.php:146
+#@ icos
+msgid "Style 1: Dark/Light"
+msgstr ""
+
+#: vc_shortcode.php:147
+#@ icos
+msgid "Style 2: Azure"
+msgstr ""
+
+#: vc_shortcode.php:148
+#@ icos
+msgid "Style 3: Lavender"
+msgstr ""
+
+#: vc_shortcode.php:149
+#@ icos
+msgid "Style 4: Muscari"
+msgstr ""
+
+#: vc_shortcode.php:297
+#@ icos
+msgid "OT Icon Box"
+msgstr ""
+
+#: vc_shortcode.php:310
+#@ icos
+msgid "Find icon here: <a target=\"_blank\" href=\"https://themify.me/themify-icons\">Themify Icons</a>. Example: ti-wallet"
+msgstr ""
+
+#: vc_shortcode.php:334
+#@ icos
+msgid "Icon Left"
+msgstr ""
+
+#: vc_shortcode.php:335
+#@ icos
+msgid "Icon Right"
+msgstr ""
+
+#: vc_shortcode.php:388
+#@ icos
+msgid "OT Process"
+msgstr ""
+
+#: vc_shortcode.php:396
+#@ icos
+msgid "Process"
+msgstr ""
+
+#: vc_shortcode.php:403
+#@ icos
+msgid "Icon Nav"
+msgstr ""
+
+#: vc_shortcode.php:510
+#: vc_shortcode.php:640
+#@ icos
+msgid "Font Awesome Version 4"
+msgstr ""
+
+#: vc_shortcode.php:517
+#: vc_shortcode.php:647
+#@ icos
+msgid "Font Awesome Version 5"
+msgstr ""
+
+#: vc_shortcode.php:539
+#@ icos
+msgid "OT CountDown 2"
+msgstr ""
+
+#: vc_shortcode.php:583
+#@ icos
+msgid "Current Number Token"
+msgstr ""
+
+#: vc_shortcode.php:628
+#@ icos
+msgid "Whitepaper"
+msgstr ""
+
+#: vc_shortcode.php:720
+#@ icos
+msgid "Style 3"
+msgstr ""
+
+#: vc_shortcode.php:860
+#@ icos
+msgid "OT Member Team 2"
+msgstr ""
+
+#: vc_shortcode.php:894
+#@ icos
+msgid "Experience"
+msgstr ""
+
+#: vc_shortcode.php:957
+#@ icos
+msgid "OT Testimonials"
+msgstr ""
+
+#: vc_shortcode.php:965
+#@ icos
+msgid "They Said"
+msgstr ""
+

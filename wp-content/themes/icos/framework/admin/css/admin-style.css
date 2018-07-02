@@ -1,0 +1,24 @@
+.icon-st {
+  background-image: url(../images/logo-OT.png) !important;
+}
+#input_blog_layout label,
+#input_post_layout label{
+	margin: 10px;
+}
+.vc_edit_form_elements .vc_column{
+	padding-top: 15px;
+}
+.vc_edit-form-tab{
+	padding-bottom: 15px;
+}
+.param_group{
+	word-break: break-word;
+}
+
+form.demo-selector{
+	width: 25%;
+}
+p.description{
+	font-size: 16px;
+	margin-bottom: 20px;
+}
